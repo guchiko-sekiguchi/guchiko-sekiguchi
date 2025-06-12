@@ -13,7 +13,7 @@
 <h1 align="left">Tech Stack</h1>
 
 ###
-
+<p align="left">※I am studying programming.</p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">私はプログラミングを勉強しています。</p>
+<p align="left">I am studying programming.</p>
 
 ###
 
